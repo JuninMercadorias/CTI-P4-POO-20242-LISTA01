@@ -15,6 +15,6 @@ O projeto visa consolidar os conceitos de Estrutura Sequencial no contexto da Pr
 # Créditos
 Trabalho realizado por:
 
-Vitor Melo
-Vitor Manoel
-Leandson
+- Vitor Melo
+- Vitor Manoel
+- Leandson
