@@ -2,7 +2,7 @@
 
 Este repositório contém implementações de problemas simples de programação, abordando conceitos como cálculos matemáticos, controle de fluxo (condicionais e loops), e manipulação de entradas e saídas.
 
-## Descrição das Questões de algumas questões
+## Descrição de Algumas Questões
 
 ### 1. Cálculo de Salário com Impostos e Gratificação
 - **Objetivo**: O programa calcula o salário bruto de um trabalhador com base no número de horas trabalhadas, o valor do salário mínimo e o turno de trabalho (matutino, vespertino ou noturno). Além disso, ele considera o imposto e a gratificação dependendo do cargo (operário ou gerente), além de um vale alimentação, e determina a classificação do salário líquido como "mal remunerado", "normal" ou "bem remunerado".
