@@ -50,11 +50,11 @@ else:
 
 ### Em JavaScript
 
-Para rodar o código em JavaScript, use um navegador ou um ambiente de execução como o Node.js.
+Para rodar o código em JavaScript, use um navegador ou um ambiente de execução como o node.js.
 
 ### Execução:
 1. Abra o navegador ou terminal.
-2. Coloque o código JavaScript dentro de uma tag <script> ou em um arquivo .js para ser executado em um ambiente Node.js.
+2. Coloque o código JavaScript dentro de uma tag <script> ou em um arquivo .js para ser executado em um ambiente node.js.
 
 #### Exemplo em JavaScript:
 ```javascript
