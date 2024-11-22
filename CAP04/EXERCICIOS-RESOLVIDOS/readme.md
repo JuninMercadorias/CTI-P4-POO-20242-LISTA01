@@ -45,5 +45,59 @@ if angulo > 360 or angulo < -360:
     voltas = int(angulo / 360)
 else:
     voltas = 0
-# Lógica restante segue da mesma forma que o código original em C
+```
 
+
+### Em JavaScript
+
+Para rodar o código em JavaScript, use um navegador ou um ambiente de execução como o Node.js.
+
+### Execução:
+1. Abra o navegador ou terminal.
+2. Coloque o código JavaScript dentro de uma tag <script> ou em um arquivo .js para ser executado em um ambiente Node.js.
+
+#### Exemplo em JavaScript:
+```javascript
+let angulo = parseFloat(prompt("Digite o valor do ângulo (em graus):"));
+let voltas;
+if (angulo > 360 || angulo < -360) {
+    voltas = Math.floor(angulo / 360);
+} else {
+    voltas = 0;
+}
+// Lógica do quadrante segue da mesma forma
+```
+
+### Em C
+
+Se você quiser rodar o código em C, basta ter um compilador de C, como o GCC ou o Clang.
+
+### Execução:
+1. Salve o código C em um arquivo .c.
+2. Compile o código com o compilador:
+```bash
+   gcc nome_do_arquivo.c -o nome_do_programa
+```
+3. Execute o programa gerado:
+```bash
+  ./nome_do_programa
+```
+
+### Em C++
+
+No caso do C++, o processo de compilação é similar ao de C, com o uso do compilador g++.
+
+### Execução:
+1. Salve o código C++ em um arquivo .cpp.
+2. Compile o código com o comando:
+```bash
+  g++ nome_do_arquivo.cpp -o nome_do_programa
+```
+3. Execute o programa gerado:
+```bash
+  ./nome_do_programa
+```
+
+## Conclusão
+
+Esse repositório contém soluções simples para cálculos de salário, manipulação de preços e ângulos, que podem ser facilmente adaptadas para diferentes linguagens de programação. As instruções de execução fornecem uma maneira fácil de usar o código em Python, JavaScript, C e C++.
