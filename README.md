@@ -7,7 +7,7 @@ Este repositório contém as resoluções dos exercícios do Capítulo 03 - Estr
 - Exercícios: Cada exercício do Capítulo 03 foi resolvido em arquivos Java, organizados para facilitar o acesso e revisão.
 - Divisão de Tarefas:
   - Vitor Melo: Exercícios 1 a 8
-  - Vitor Emanuel: Exercícios 9 a 16
+  - Vitor Manoel: Exercícios 9 a 16
   - Leandson: Exercícios 19 a 25
 # Objetivo
 O projeto visa consolidar os conceitos de Estrutura Sequencial no contexto da Programação Orientada a Objetos. A resolução dos exercícios é uma prática dos fundamentos apresentados no livro.
